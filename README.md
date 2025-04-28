@@ -22,7 +22,14 @@ Track your daily habits, view your streaks, and stay motivated to achieve your g
 
 ## 📸 Screenshots
 	
-![Image](https://github.com/user-attachments/assets/de268a4b-6a0a-4242-80cc-ad9033a74004)
-![Image](https://github.com/user-attachments/assets/3faaebe8-6d4c-4733-a598-e81b123035cc)
-![Image](https://github.com/user-attachments/assets/637cd86a-4ae5-416b-8ec3-7c50739f0276)
-![Image](https://github.com/user-attachments/assets/02b8ff4d-d629-4451-8a90-1488fc59aaf2)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/02b8ff4d-d629-4451-8a90-1488fc59aaf2" width="45%" />
+  <img src="https://github.com/user-attachments/assets/637cd86a-4ae5-416b-8ec3-7c50739f0276" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3faaebe8-6d4c-4733-a598-e81b123035cc" width="45%" />
+  <img src= "https://github.com/user-attachments/assets/de268a4b-6a0a-4242-80cc-ad9033a74004" width="45%"/>
+</p>
+
+
