@@ -1,9 +1,10 @@
-📝 Habit Tracker
+# 📝 Habit Tracker
+
 A Habit Tracker web application built with React.js and Tailwind CSS.
 Track your daily habits, view your streaks, and stay motivated to achieve your goals!
 
-<br>
-🚀 Features
+## 🚀 Features
+
 📋 Add, update, and delete habits
 
 ✅ Mark habits as completed for each day
@@ -18,8 +19,8 @@ Track your daily habits, view your streaks, and stay motivated to achieve your g
 
 ⚡ Responsive and modern UI with Tailwind CSS
 
-<br>
-📸 Screenshots
+
+## 📸 Screenshots
 
 Home	Profile
 	
